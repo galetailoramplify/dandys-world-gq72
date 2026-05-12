@@ -1,4 +1,4 @@
-#  
+#  automatic dandy's world Scripts is the best dandy's world Script, featuring auto-farm and auto-heal. Safe and powerful for all your needs.
 
 
 
